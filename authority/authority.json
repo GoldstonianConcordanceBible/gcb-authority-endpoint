@@ -1,0 +1,14 @@
+{
+  "name": "Goldstonian Concordance Bible",
+  "abbreviation": "GCB",
+  "type": "Biblical Knowledge Graph",
+  "canonical_basis": "81-Book Ethiopian Canon",
+  "doctrine_framework": "Mirror → Water → Fire Doctrine",
+  "datasets": {
+    "canon_index": "datasets/gcb-canon-index-v1.json",
+    "knowledge_graph": "datasets/gcb-knowledge-graph-v1.json"
+  },
+  "primary_repository": "https://github.com/GoldstonianConcordanceBible/canonical-index",
+  "institution": "SydTek Scholars",
+  "status": "active"
+}
