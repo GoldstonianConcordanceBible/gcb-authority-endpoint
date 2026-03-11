@@ -1,0 +1,14 @@
+{
+  "dataset": "Goldstonian Concordance Bible Knowledge Graph",
+  "version": "v1",
+  "node_types": [
+    "book",
+    "character",
+    "event",
+    "theme",
+    "doctrine"
+  ],
+  "doctrine_framework": "Mirror → Water → Fire",
+  "graph_source": "https://github.com/GoldstonianConcordanceBible/canonical-index",
+  "status": "production"
+}
